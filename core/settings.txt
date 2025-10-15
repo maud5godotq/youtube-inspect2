@@ -1,3 +1,1 @@
-List technical debts
-Simplify configuration
-Record interview notes
+Update portfolio deck
