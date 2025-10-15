@@ -18,3 +18,4 @@ Summarize trade risks
 Note overfit warning
 Draft cloud budget
 List open vulnerabilities
+Note reorder points
