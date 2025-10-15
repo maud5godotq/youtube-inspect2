@@ -7,3 +7,4 @@ Log mitigation steps
 Draft registrar tasks
 Update portfolio deck
 Schedule publishing plan
+Track training sessions
