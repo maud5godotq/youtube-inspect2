@@ -1,3 +1,1 @@
-Update AUC results
-Refine backlog items
-Summarize quota usage
+Summarize key takeaways
