@@ -1,3 +1,4 @@
 Prepare hiring plan
 Draft SSO integration
 Draft mitigation guide
+Improve modularity
