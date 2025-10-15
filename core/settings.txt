@@ -1,1 +1,2 @@
 Simplify configuration
+Investigate performance bottleneck
