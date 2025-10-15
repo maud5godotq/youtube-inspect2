@@ -1,3 +1,4 @@
 Plan oncall shifts
 Draft loyalty program
 Update kill switch
+Draft HIPAA notes
