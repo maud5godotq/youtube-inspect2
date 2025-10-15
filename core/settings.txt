@@ -10,3 +10,4 @@ Start new iteration of the project
 Summarize last meeting notes
 Schedule maintenance window
 Record NPS score
+Draft style samples
