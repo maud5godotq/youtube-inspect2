@@ -1,17 +1,1 @@
-List booth designs
-Draft feature proposal
-Record certification status
-Summarize rollback drills
-Note improvement ideas
-Review performance budgets
-Update incident timeline
-Draft liquidity plan
-Summarize contingency plan
-Refactor helper functions
-Check backup status
-Summarize zone updates
-Write press release draft
-Draft testimonials list
-Summarize permission gaps
-Note cluster issues
-List hypothesis tests
+Update AUC results
