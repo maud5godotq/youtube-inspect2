@@ -1,11 +1,1 @@
-List hypothesis tests
-Check ISO documents
-List technical debts
-Plan lead generation
-Schedule publishing plan
-Log mitigation steps
-Draft registrar tasks
-Update portfolio deck
-Schedule publishing plan
-Track training sessions
-Check expiry dates
+Simplify configuration
