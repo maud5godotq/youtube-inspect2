@@ -5,3 +5,4 @@ Plan team retro
 Record HR initiatives
 Summarize compliance checks
 Note accessibility gaps
+Draft SSO integration
