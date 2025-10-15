@@ -1,2 +1,3 @@
 List hypothesis tests
 Check ISO documents
+List technical debts
