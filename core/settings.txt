@@ -17,3 +17,4 @@ Log regression issues
 Summarize trade risks
 Note overfit warning
 Draft cloud budget
+List open vulnerabilities
