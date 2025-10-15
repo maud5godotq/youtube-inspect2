@@ -4,3 +4,4 @@ Note pipeline DAG
 Plan team retro
 Record HR initiatives
 Summarize compliance checks
+Note accessibility gaps
