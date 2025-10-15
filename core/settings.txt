@@ -16,3 +16,4 @@ Summarize regularization notes
 Log regression issues
 Summarize trade risks
 Note overfit warning
+Draft cloud budget
