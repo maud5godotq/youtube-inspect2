@@ -11,3 +11,4 @@ Refactor helper functions
 Check backup status
 Summarize zone updates
 Write press release draft
+Draft testimonials list
