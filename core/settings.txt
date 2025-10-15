@@ -1,3 +1,4 @@
 Improve logging format
 Plan outreach tasks
 Create new test cases
+Plan capacity increase
