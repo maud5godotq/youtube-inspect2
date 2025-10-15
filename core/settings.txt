@@ -1,2 +1,3 @@
 Update portfolio deck
 Draft onboarding checklist
+Review architecture decisions
