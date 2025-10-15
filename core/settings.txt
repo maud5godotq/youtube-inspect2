@@ -13,3 +13,4 @@ Summarize zone updates
 Write press release draft
 Draft testimonials list
 Summarize permission gaps
+Note cluster issues
