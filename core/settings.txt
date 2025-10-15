@@ -12,3 +12,4 @@ Schedule maintenance window
 Record NPS score
 Draft style samples
 Record prototype feedback
+Summarize regularization notes
