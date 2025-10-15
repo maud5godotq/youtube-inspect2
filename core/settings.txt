@@ -3,3 +3,4 @@ Draft loyalty program
 Update kill switch
 Draft HIPAA notes
 Summarize top requests
+Add unit test coverage
