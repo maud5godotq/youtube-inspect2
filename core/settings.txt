@@ -5,3 +5,4 @@ Plan capacity increase
 List password policies
 Draft SSO integration
 List legal holds
+Review monitoring setup
