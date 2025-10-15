@@ -9,3 +9,4 @@ Draft liquidity plan
 Summarize contingency plan
 Refactor helper functions
 Check backup status
+Summarize zone updates
