@@ -6,3 +6,4 @@ Record HR initiatives
 Summarize compliance checks
 Note accessibility gaps
 Draft SSO integration
+Start new iteration of the project
