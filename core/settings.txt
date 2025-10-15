@@ -1,2 +1,3 @@
 Fix minor issues in workflow
 List resource needs
+Note pipeline DAG
