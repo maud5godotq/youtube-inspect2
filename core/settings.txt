@@ -4,3 +4,4 @@ Review architecture decisions
 Draft packaging guide
 Check burndown chart
 Review caching strategy
+Verify API endpoints
