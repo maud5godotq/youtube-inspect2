@@ -1,5 +1,1 @@
-Simplify configuration
-Investigate performance bottleneck
-List influencer mentions
-Update governance notes
-Update confusion matrix
+Recheck security notes
