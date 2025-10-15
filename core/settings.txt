@@ -7,3 +7,4 @@ Record acceptance tests
 Update mentoring plan
 Plan data migration
 Review logo sketches
+Plan career paths
