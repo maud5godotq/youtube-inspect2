@@ -1,7 +1,1 @@
-Update portfolio deck
-Draft onboarding checklist
-Review architecture decisions
-Draft packaging guide
-Check burndown chart
-Review caching strategy
-Verify API endpoints
+List booth designs
