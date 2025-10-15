@@ -3,3 +3,4 @@ Draft training slides
 Note configuration changes
 Summarize war room chat
 Capture UI feedback
+Record acceptance tests
