@@ -2,3 +2,4 @@ List hypothesis tests
 Check ISO documents
 List technical debts
 Plan lead generation
+Schedule publishing plan
