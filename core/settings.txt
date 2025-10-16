@@ -1,3 +1,4 @@
 Update partner map
 Note legal risks
 Draft sourcing notes
+Record validation scores
