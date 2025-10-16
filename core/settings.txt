@@ -8,3 +8,4 @@ Record hackathon ideas
 Plan cashflow forecast
 Update poll results
 Update ad creatives
+Check monitoring alerts
