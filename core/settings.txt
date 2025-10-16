@@ -1,2 +1,3 @@
 Check API gateway
 Draft celebration notes
+Record progress KPIs
