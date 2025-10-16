@@ -5,3 +5,4 @@ Track timeline adjustments
 Draft pseudonymization plan
 Create new test cases
 Record feedback cycle
+List open vulnerabilities
