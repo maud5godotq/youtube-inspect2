@@ -6,3 +6,4 @@ Record HR initiatives
 Prepare presentation slides
 Update deletion logs
 Review pull requests
+Draft integration plan
