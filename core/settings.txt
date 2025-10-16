@@ -3,3 +3,4 @@ Review pull requests
 Record media queries
 Update editorial calendar
 Summarize results
+Note lessons learned
