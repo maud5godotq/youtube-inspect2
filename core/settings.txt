@@ -7,3 +7,4 @@ Prepare presentation slides
 Update deletion logs
 Review pull requests
 Draft integration plan
+Log regression issues
