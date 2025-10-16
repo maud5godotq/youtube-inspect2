@@ -4,3 +4,4 @@ Record progress KPIs
 Note firewall configs
 Draft mitigation guide
 Draft mitigation guide
+Draft opportunity list
