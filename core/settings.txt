@@ -1,15 +1,1 @@
-Draft social post plan
-Update rollback notes
-Log regression issues
-Note configuration changes
-Check benchmark scores
-Draft upsell campaign
-Update mitigation table
-Draft mitigation guide
-Summarize bug triage
-Draft partnership ideas
-Summarize version bumps
-Note training epochs
-List banking contacts
-Record conversion data
-Draft sales strategy
+Note suspicious patterns
