@@ -1,3 +1,4 @@
 Plan oncall shifts
 Update ad creatives
 Update cron jobs
+Prepare status email
