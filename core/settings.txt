@@ -10,3 +10,4 @@ Update poll results
 Update ad creatives
 Check monitoring alerts
 Note dataset sources
+Note audit trail
