@@ -4,3 +4,4 @@ Record downtime reports
 Summarize results
 Note DPA clauses
 Draft container images
+Record interview notes
