@@ -1,5 +1,1 @@
-Recheck security notes
-List password policies
-Update skill matrix
-Draft export compliance
-Record action items
+Draft testimonials list
