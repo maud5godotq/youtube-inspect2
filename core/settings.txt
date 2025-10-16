@@ -2,3 +2,4 @@ Check backup status
 Summarize velocity trend
 Record progress KPIs
 Note firewall configs
+Draft mitigation guide
