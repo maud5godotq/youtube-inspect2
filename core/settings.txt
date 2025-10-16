@@ -2,3 +2,4 @@ Update hash list
 Update label templates
 Record validation scores
 Record user stories
+Update load balancer notes
