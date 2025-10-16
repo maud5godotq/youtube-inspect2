@@ -1,6 +1,1 @@
-Draft upsell campaign
-Review pull requests
-Record media queries
-Update editorial calendar
-Summarize results
-Note lessons learned
+Record key rotation plan
