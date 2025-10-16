@@ -1,1 +1,2 @@
 Capture UI feedback
+Update compatibility notes
