@@ -4,3 +4,4 @@ Record progress KPIs
 Update label templates
 Record HR initiatives
 Prepare presentation slides
+Update deletion logs
