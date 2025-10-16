@@ -3,3 +3,4 @@ Note legal risks
 Draft sourcing notes
 Record validation scores
 Write press release draft
+Update SOC reports
