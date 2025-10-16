@@ -2,3 +2,4 @@ Note follow-up actions
 Summarize thank-you notes
 Note firewall configs
 Record survey highlights
+Note training needs
