@@ -1,8 +1,1 @@
-Update migration scripts
-Record feature votes
-Record downtime reports
-Summarize results
-Note DPA clauses
-Draft container images
-Record interview notes
-Draft documentation outline
+Plan PR campaign
