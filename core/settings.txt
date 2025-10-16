@@ -4,3 +4,4 @@ Note firewall configs
 Record survey highlights
 Note training needs
 Check container configs
+Record hackathon ideas
