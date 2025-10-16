@@ -1,3 +1,4 @@
 Prepare closure report
 List discount schemes
 Record CI/CD pipeline
+List shipping costs
