@@ -4,3 +4,4 @@ Record CI/CD pipeline
 List shipping costs
 Check breaking changes
 Migrate from an old testing framework to a modern one
+Review financial risks
